@@ -56,5 +56,5 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GhanmiPro26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.shion.dev/api?username=GhanmiPro26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GhanmiAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=GhanmiAdam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
